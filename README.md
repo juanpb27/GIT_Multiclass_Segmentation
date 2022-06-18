@@ -2,8 +2,8 @@
 
 https://www.kaggle.com/code/juanpb27/image-segmentation-project
 
-![Unified Mask](./images/classes.png)
+<img src="https://i.imgur.com/T30fRsN.png" width="650" height="450" class="center">
 
-![Unified Mask](./images/Unified_Mask.png)
+<img src="https://i.imgur.com/JudzwsZ.png" width="650" height="250" class="center">
 
-![Unified Mask](./images/segmentation.png)
+<img src="https://i.imgur.com/Oj9DW3H.png" width="650" height="250" class="center">
